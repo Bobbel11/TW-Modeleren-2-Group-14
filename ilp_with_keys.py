@@ -109,5 +109,5 @@ def ILP(filepath):
   graph(x_vals, durations, surgeries, dayno, roomno, capacity)
 
 
-filepath = "/Users/daangeijsen/Programming/TW/TW-modeleren/Modeleren 2/Operation/Data assignment operating room 2 Large with keys.xlsx"
+filepath = "/Users/daangeijsen/Programming/TW/TW-modeleren/Modeleren 2/Operation/Data assignment operating room 2 Small with keys.xlsx"
 ILP(filepath)
